@@ -1,0 +1,6 @@
+Suite: compression
+Profile: quick
+MATLAB/Octave: 24.1.0.2537033 (R2024a)
+All main iterations use fixed p,q,lambda,epsP,epsQ.
+FULL and LM: same solve budget. CAPPED: same basis cap, fewer solves.
+Independent-observation validation calibration is separate from solver timing.
